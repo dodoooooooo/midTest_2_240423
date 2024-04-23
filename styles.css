@@ -18,7 +18,7 @@ body {
     padding: 20px;
     display: flex;
     flex-wrap: wrap; /* 允許容器內的元素換行 */
-    justify-content: center; /* 水平居中 */
+    justify-content: flex-start; /* 將元素靠左 */
 }
 
 .image-container {
